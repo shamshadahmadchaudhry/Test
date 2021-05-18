@@ -1,0 +1,4 @@
+2021-05-18T17:35:56.4754567+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-05-18T17:35:56.4916979+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2021-05-18T17:35:56.4972263+05:30  [INF] Content root path: "D:\DemoTest\DemoTest\DemoTest" (b5d60022)
+2021-05-18T17:36:17.8926044+05:30 8000004c-0001-ea00-b63f-84710c7967bb [INF] Log message in the GetStudents() method (3490c08f)
